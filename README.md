@@ -1,6 +1,5 @@
 # Health-ai
-Here’s a clear and concise description for your project "HealthAI" based on the provided document:
-
+Here’s a clear and concise description for the project "HealthAI" 
 
 ---
 
